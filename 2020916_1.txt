@@ -1,0 +1,2 @@
+今天是什么天气？
+today is rainy.
